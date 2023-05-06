@@ -1,3 +1,5 @@
 ipykernel
 python-dotenv
 openai
+redlines
+markdown

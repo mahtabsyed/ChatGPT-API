@@ -3,3 +3,5 @@ python-dotenv
 openai
 redlines
 markdown
+panel
+jupyter_bokeh

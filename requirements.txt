@@ -1,6 +1,6 @@
 ipykernel
 python-dotenv
-openai
+openai==1.0.0
 redlines
 markdown
 panel

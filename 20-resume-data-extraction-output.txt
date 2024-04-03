@@ -1,0 +1,52 @@
+Step 1 - Extract key skills and match:
+
+Key skills from the Resume:
+- IT Strategy, Organizational Strategy, Data Strategy, Data Governance, Transformation, Capability
+- Data Governance (Data Catalog, Metadata, Master Data Management, Data Lineage, Data Accountability, Data Lifecycle Management, Data Ethics and Privacy)
+- Leadership of high-performance teams, Coaching and Mentoring teams
+- People Management, Workforce planning, Hiring, Career Development, Capacity allocation, Performance Management, Career Paths, Promotion, Salary and Bonus allocation
+- PMI PMP Certified, Planning, Scope, Cost, Time, Risk Management
+- Certified AWS Solution Architect Associate, On-premises to Cloud Transition
+- Data Engineering and Analytics for Business decisions / Regulatory reports
+- Business Partner, IT Transformation, Bridging Business needs and IT Solutions
+- Key Stakeholder Management, Executive Communication
+- Azure and AWS Solutions, Engineering and DevOps
+- Data Engineering using Cloud on Azure and on-premises using Data Warehouses
+- Data Analytics using SQL, Python, Pandas, NumPy and matplotlib
+- Machine Learning and Artificial Intelligence (AI) using Scikit-learn, TensorFlow and PyTorch
+- Data Visualization using matplotlib (scientific data), Power BI and Tableau
+- Enterprise Architecture, Design, Full Stack Developer, Master Data Management (MDM) Practices
+- Object Oriented Programming, Service Oriented Architecture (SOA), Java and .NET Framework
+- Python, C++, Java, SQL and RDMBS and No SQL Database
+
+Key skills from the Job Description:
+- AI and data architecture
+- Designing and implementing scalable solutions
+- Machine learning with experience in large-scale training and deployment of deep neural nets and/or transformer architectures
+- AI based solutions, Predictive Modeling, Advance Analytics, machine learning based solutions, and semantic search technologies
+- Building, scaling, and optimizing training and inferencing systems for deep neural networks
+- Machine learning, data modeling, and data visualization
+- Programming languages such as Python, R, or Java
+- Experience with big data technologies (e.g., Hadoop, Spark) and cloud platforms (e.g., AWS, Azure, GCP)
+- Leadership and communication skills
+
+Matching skills:
+- AI and data architecture: Resume has experience in Data Engineering, Machine Learning, and Artificial Intelligence solutions, which aligns with the job description.
+- Designing and implementing scalable solutions: Resume has experience in delivering complex Technical and Business critical programs, solving Business problems, and contributing to Revenue generation, which aligns with the job description.
+- Machine learning with experience in large-scale training and deployment of deep neural nets and/or transformer architectures: Resume has experience in Machine Learning and Artificial Intelligence using Scikit-learn, TensorFlow, and PyTorch, which aligns with the job description.
+- AI based solutions, Predictive Modeling, Advance Analytics, machine learning based solutions, and semantic search technologies: Resume has experience in Data Engineering and Analytics for Business decisions / Regulatory reports, which aligns with the job description.
+- Building, scaling, and optimizing training and inferencing systems for deep neural networks: Resume does not explicitly mention experience in building, scaling, and optimizing training and inferencing systems for deep neural networks.
+- Machine learning, data modeling, and data visualization: Resume has experience in Data Analytics using SQL, Python, Pandas, NumPy, and matplotlib, which aligns with the job description.
+- Programming languages such as Python, R, or Java: Resume has experience in Python, which aligns with the job description.
+- Experience with big data technologies (e.g., Hadoop, Spark) and cloud platforms (e.g., AWS, Azure, GCP): Resume has experience in Azure and AWS Solutions, Engineering, and DevOps, which aligns with the job description.
+- Leadership and communication skills: Resume has experience in Stakeholder Engagement and Delivery, People Leadership, and Key Stakeholder Management, which aligns with the job description.
+
+Step 2 - Summarize and match:
+
+The Resume has a good match with the Job Description in terms of skills and experience related to AI, data architecture, machine learning, data analytics, programming languages, and cloud platforms. However, it does not explicitly mention experience in building, scaling, and optimizing training and inferencing systems for deep neural networks.
+
+Step 3 - Identify key success factors and match:
+
+The key success factors mentioned in the Job Description are a deep understanding of both artificial intelligence and data architecture, proven track record of designing and implementing scalable solutions, and excellent leadership and communication skills. The Resume aligns with these key success factors as it has experience in delivering complex Technical and Business critical programs, solving Business problems, and contributing to Revenue generation, as well as experience in Stakeholder Engagement and Delivery, People Leadership, and Key Stakeholder Management.
+
+Overall, the match between the Resume and the Job Description is positive. I would rate it as 80 out of 100.

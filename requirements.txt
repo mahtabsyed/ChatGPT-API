@@ -5,3 +5,7 @@ redlines
 markdown
 panel
 jupyter_bokeh
+PyPDF2
+pdfminer
+pdfminer.six
+python-docx

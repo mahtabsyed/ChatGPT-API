@@ -3,7 +3,10 @@ $ cd ChatGPT
 
 $ /usr/local/bin/python3 -m venv .venv
 $ source .venv/bin/activate
-$ pip install -r requirements.txt
+$ python3 -m pip install -r requirements.txt
+
+# Check a package
+$ pip show PyPDF2
 
 # Create an environment variable which point to OpenAPI key
 export OPENAI_API_KEY="YOUR_OPENAPI_KEY"

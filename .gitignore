@@ -9,6 +9,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Output files
+resume-job-output*
+
 # Distribution / packaging
 .Python
 build/

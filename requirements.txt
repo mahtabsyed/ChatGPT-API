@@ -1,6 +1,6 @@
 ipykernel
 python-dotenv
-openai==1.0.0
+openai
 redlines
 markdown
 panel
@@ -9,3 +9,6 @@ PyPDF2
 pdfminer
 pdfminer.six
 python-docx
+openpyxl
+matplotlib
+seaborn

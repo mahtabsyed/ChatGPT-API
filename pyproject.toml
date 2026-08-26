@@ -5,8 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "anthropic>=1.1.0",
-    "google-genai>=2.20.0",
+    "anthropic",
+    "google-genai",
     "ipykernel>=7.0.1",
     "jupyter-bokeh>=4.0.5",
     "markdown>=3.9",
@@ -16,10 +16,19 @@ dependencies = [
     "panel>=1.8.2",
     "pdfminer>=20191125",
     "pdfminer-six>=20250506",
-    "pypdf2>=3.0.1",
+    "pypdf>=3.9.0",
     "python-docx>=1.2.0",
     "python-dotenv>=1.1.1",
     "redlines>=0.5.2",
     "requests>=2.32.5",
     "seaborn>=0.13.2",
 ]
+
+[tool.uv]
+# Supply-chain defence: ~10-day cooldown. Do not resolve packages published in the
+# last ~10 days, so a freshly compromised upstream release cannot be pulled in
+# before the ecosystem detects and yanks it. Bump this date forward deliberately
+# as a security decision (keeping ~10 days behind "today"), not reflexively on
+# every `uv sync`. Note: this holds anthropic at 0.x and google-genai at 2.18.x,
+# the newest versions older than the cutoff.
+exclude-newer = "2026-08-17T00:00:00Z"

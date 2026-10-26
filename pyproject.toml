@@ -25,10 +25,9 @@ dependencies = [
 ]
 
 [tool.uv]
-# Supply-chain defence: ~10-day cooldown. Do not resolve packages published in the
-# last ~10 days, so a freshly compromised upstream release cannot be pulled in
+# Supply-chain defence: one-week cooldown. Do not resolve packages published in the
+# last seven days, so a freshly compromised upstream release cannot be pulled in
 # before the ecosystem detects and yanks it. Bump this date forward deliberately
-# as a security decision (keeping ~10 days behind "today"), not reflexively on
-# every `uv sync`. Note: this holds anthropic at 0.x and google-genai at 2.18.x,
-# the newest versions older than the cutoff.
-exclude-newer = "2026-08-17T00:00:00Z"
+# as a security decision (keeping seven days behind "today"), not reflexively on
+# every `uv sync`.
+exclude-newer = "2026-10-19T00:00:00Z"
